@@ -1,4 +1,5 @@
 MY SQL TASK-3
+
 # Employee Management SQL Script
 
 This project contains a MySQL script that demonstrates the creation and querying of an `Employees` table. It includes table creation, data insertion, and multiple `SELECT` queries using conditions, ordering, and limits.
